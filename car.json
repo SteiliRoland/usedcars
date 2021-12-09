@@ -1,0 +1,59 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "plate": "ADG-284",
+            "color": "fehér",
+            "brand": "Opel",
+            "year": 1998,
+            "capacity": 1400,
+            "fuel": "benzin",
+            "price": 260000,
+            "sold": true
+        },
+        {
+            "id": 2,
+            "plate": "GAD-912",
+            "color": "piros",
+            "brand": "Ford",
+            "year": 2003,
+            "capacity": 1400,
+            "fuel": "benzin",
+            "price": 370000,
+            "sold": true
+        },
+        {
+            "id": 3,
+            "plate": "FDE-102",
+            "color": "fehér",
+            "brand": "Ford",
+            "year": 2004,
+            "capacity": 1200,
+            "fuel": "benzin",
+            "price": 299000,
+            "sold": false
+        },
+        {
+            "id": 4,
+            "plate": "FLE-582",
+            "color": "fekete",
+            "brand": "Honda",
+            "year": 2003,
+            "capacity": 1400,
+            "fuel": "benzin",
+            "price": 579000,
+            "sold": false
+        },
+        {
+            "id": 5,
+            "plate": "FDN-132",
+            "color": "kék",
+            "brand": "Citroen",
+            "year": 2006,
+            "capacity": 1600,
+            "fuel": "dízel",
+            "price": 478000,
+            "sold": false
+        }
+    ]
+}
